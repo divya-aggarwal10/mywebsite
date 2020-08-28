@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "My first post"
-date:   2020-08-27 11:25:59 -0700
+title:  "Vex Robotics"
+date:   2015-03-16 11:25:59 -0700
+image: assets/images/dvm.jpg
 categories: jekyll update
 ---
-welcome to my first post! 
-## Here are things I will be writing about
-1. This
-2. That
-3. The other thing
+
+We used an omni wheel drive base to increase the various ways of movement. We then decided on a scissor lift and a claw for lifting the cubes. This was our final design.
