@@ -76,6 +76,11 @@ figure {
    margin: 1em 40px;
 }
 
+.border {
+   border-top: 3px solid #555;
+   width: 100%;
+}
+
 .container {
    margin-right: auto;
    margin-left: auto;

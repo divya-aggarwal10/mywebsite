@@ -312,6 +312,11 @@ code {
    border-radius: 3px;
 }
 
+.border {
+   border-top: 3px solid #555;
+   width: 100%;
+}
+
 pre > code {
    display: block;
    white-space: pre;
