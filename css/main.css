@@ -1460,6 +1460,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    vertical-align: bottom;
    -webkit-transition: all 0.3s ease-in-out;
    transition: all 0.3s ease-in-out;
+   
 }
 
 .masonry .entry__thumb-link::before {
