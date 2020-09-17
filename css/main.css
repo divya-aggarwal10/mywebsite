@@ -1652,6 +1652,37 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    color: #999999;
 }
 
+.container {
+   margin-right: auto;
+   margin-left: auto;
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+ @media (min-width: 768px) {
+   .container {
+     width: 750px;
+   }
+ }
+ @media (min-width: 992px) {
+   .container {
+     width: 970px;
+   }
+ }
+ @media (min-width: 1200px) {
+   .container {
+     width: 1170px;
+   }
+ }
+ 
+.featured__column {
+	float: left;
+ }
+
+ .featured__column--small {
+	width: 40%;
+	position: relative;
+ }
+
 .format-quote cite::before,
 .format-link cite::before {
    display: none;

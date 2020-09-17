@@ -76,6 +76,13 @@ figure {
    margin: 1em 40px;
 }
 
+.container {
+   margin-right: auto;
+   margin-left: auto;
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+
 hr {
    box-sizing: content-box;
    height: 0;
