@@ -1758,6 +1758,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * # pageheader
  *
  * ------------------------------------------------------------------- */
+ /*
 .s-pageheader {
    min-height: 174px;
    background-image: url(../images/hero-bg.jpg);
@@ -1779,7 +1780,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .s-pageheader--home {
-   min-height: 480px;
+   min-height: 300px;
    padding-top: 222px;
 }
 
@@ -1800,6 +1801,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    padding: 0 75px;
    max-width: 1350px;
 }
+*/
 
 
 /* -------------------------------------------------------------------
