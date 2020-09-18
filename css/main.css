@@ -1758,7 +1758,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * # pageheader
  *
  * ------------------------------------------------------------------- */
- /*
+ 
 .s-pageheader {
    min-height: 174px;
    background-image: url(../images/hero-bg.jpg);
@@ -1801,7 +1801,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    padding: 0 75px;
    max-width: 1350px;
 }
-*/
+
 
 
 /* -------------------------------------------------------------------
@@ -1947,7 +1947,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
    font-size: 1.6rem;
    margin-top: 3rem;
    text-align: center;
-   color: rgba(255, 255, 255, 0.5);
+   color: rgba(0, 255, 255, 0.5);
 }
 
 .header__search-form input[type="search"] {
@@ -2172,7 +2172,7 @@ body.search-is-visible {
 }
 
 .header__nav-wrap a {
-   color: rgba(255, 255, 255, 0.6);
+   color: rgba(0, 255, 255, 0.6);
 }
 
 .header__nav-wrap .header__nav-heading {
@@ -2513,7 +2513,7 @@ body.search-is-visible {
    margin: 0 0 0 6rem;
    padding: 0;
    font-family: "metropolis-semibold", sans-serif;
-   color: rgba(255, 255, 255, 0.5);
+   color: rgba(255, 255, 255, 1);
    line-height: 1.5;
 }
 
@@ -2533,7 +2533,7 @@ body.search-is-visible {
 }
 
 .featured .entry__meta a {
-   color: rgba(255, 255, 255, 0.5);
+   color: rgba(255, 255, 255, 1);
 }
 
 
@@ -2864,7 +2864,7 @@ body.search-is-visible {
  *
  * ------------------------------------------------------------------- */
 .s-content {
-   background-color: #f2f2f2;
+   background-color: white;
    padding-top: 8.4rem;
    padding-bottom: 7.2rem;
 }
@@ -2890,7 +2890,7 @@ body.search-is-visible {
 }
 
 .s-content__header .lead {
-   color: rgba(0, 0, 0, 0.5);
+   color: #ffffff;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3057,11 +3057,11 @@ body.search-is-visible {
 }
 
 .s-extra a {
-   color: #000000;
+   color: #ffffff;
 }
 
 .s-extra a:hover, .s-extra a:focus {
-   color: #0054a5;
+   color: #ffffff;
 }
 
 .s-extra h3, .s-extra h5 {
@@ -3137,15 +3137,15 @@ body.search-is-visible {
    padding: 0 2rem;
    margin: 0 1.2rem 1.5rem 0;
    border-radius: 3px;
-   background: #e2e2e2;
+   background: #ffffff;
    text-decoration: none;
-   color: #333333;
+   color: #ffffff;
    position: relative;
 }
 
 .s-extra .tagcloud a:hover, .s-extra .tagcloud a:focus {
    color: #FFFFFF;
-   background: #151515;
+   background: #ffffff;
 }
 
 /* ------------------------------------------------------------------- 
