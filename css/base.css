@@ -337,9 +337,9 @@ video {
 /* ------------------------------------------------------------------- 
  * ## Typography resets 
  * ------------------------------------------------------------------- */
-div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+img, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td, {
+   padding: 3rem 2.8rem 3.6rem;
    margin: 0;
-   padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -382,6 +382,7 @@ li {
  * ------------------------------------------------------------------- */
 a {
    text-decoration: none;
+   font: "Utopia Bold";
    line-height: inherit;
 }
 
